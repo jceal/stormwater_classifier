@@ -1,0 +1,11 @@
+*.zip
+
+.DS_Store
+
+__pycache__/
+*.pyc
+
+data/ms4/
+*.gdb
+*.csv
+
