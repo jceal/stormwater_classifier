@@ -1,0 +1,1 @@
+See final report for link to project data to be downloaded. The "data" directory should be added under the project root, and contains the annotated training dataset as well as PLUTO and MS4 drainage area records.
